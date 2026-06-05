@@ -6,8 +6,8 @@ Welcome to the shared course repo. This is where all participants contribute the
 
 Add your name and role below when you complete the session 01 homework:
 
-| Name | Role | Session 01 PR |
-|------|------|---------------|
+| Name | Role | Session 01 PR | Github email |
+|------|------|---------------|--------------|
 | Ivan Tishchenko|BA | ✅ |
 | Almaz Hakimov|PO | ✅ |
 | Gregory Volosov|QA | ✅ |
