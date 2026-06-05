@@ -16,6 +16,7 @@ Add your name and role below when you complete the session 01 homework:
 | Tazkia Qurrataayun|Customer Support | ✅ |
 | Kseniya Skovpneva|BA|✅ |
 | Kseniya Sevridova|BA|✅ |
+| Liudmila Kotova|QA|✅|
 
 ## Structure
 
